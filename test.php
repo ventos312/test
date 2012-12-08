@@ -1,0 +1,5 @@
+<?
+$text = "ahoj";
+echo $text;
+
+?>
